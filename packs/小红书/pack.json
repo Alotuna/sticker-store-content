@@ -5,6 +5,271 @@
   "author": "Hugo",
   "trayIconUrl": "1-1.thumb128.png",
   "stickers": [
-    { "id": "001", "fileUrl": "stickers/001.webp", "emojis": ["🐶"], "width": 512, "height": 512 }
+      {
+    "id": "10.thumb128",
+    "fileUrl": "stickers/10.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "11.thumb128",
+    "fileUrl": "stickers/11.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "12.thumb128",
+    "fileUrl": "stickers/12.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "13.thumb128",
+    "fileUrl": "stickers/13.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "14.thumb128",
+    "fileUrl": "stickers/14.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "15.thumb128",
+    "fileUrl": "stickers/15.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "16.thumb128",
+    "fileUrl": "stickers/16.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "17.thumb128",
+    "fileUrl": "stickers/17.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "18.thumb128",
+    "fileUrl": "stickers/18.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "19.thumb128",
+    "fileUrl": "stickers/19.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "2.thumb128",
+    "fileUrl": "stickers/2.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "20.thumb128",
+    "fileUrl": "stickers/20.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "21.thumb128",
+    "fileUrl": "stickers/21.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "22.thumb128",
+    "fileUrl": "stickers/22.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "23.thumb128",
+    "fileUrl": "stickers/23.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "24.thumb128",
+    "fileUrl": "stickers/24.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "25.thumb128",
+    "fileUrl": "stickers/25.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "26.thumb128",
+    "fileUrl": "stickers/26.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "27.thumb128",
+    "fileUrl": "stickers/27.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "28.thumb128",
+    "fileUrl": "stickers/28.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "29.thumb128",
+    "fileUrl": "stickers/29.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "3.thumb128",
+    "fileUrl": "stickers/3.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "30.thumb128",
+    "fileUrl": "stickers/30.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "31.thumb128",
+    "fileUrl": "stickers/31.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "32.thumb128",
+    "fileUrl": "stickers/32.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "33.thumb128",
+    "fileUrl": "stickers/33.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "34.thumb128",
+    "fileUrl": "stickers/34.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "35.thumb128",
+    "fileUrl": "stickers/35.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "36.thumb128",
+    "fileUrl": "stickers/36.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "37.thumb128",
+    "fileUrl": "stickers/37.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "38.thumb128",
+    "fileUrl": "stickers/38.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "39.thumb128",
+    "fileUrl": "stickers/39.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "4.thumb128",
+    "fileUrl": "stickers/4.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "5.thumb128",
+    "fileUrl": "stickers/5.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "6.thumb128",
+    "fileUrl": "stickers/6.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "7.thumb128",
+    "fileUrl": "stickers/7.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "8.thumb128",
+    "fileUrl": "stickers/8.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "9.thumb128",
+    "fileUrl": "stickers/9.thumb128.webp",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  }
   ]
 }

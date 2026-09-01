@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "小红书",
+  "name": "小红书",
+  "author": "Hugo",
+  "trayIconUrl": "1-1.thumb128.png",
+  "stickers": [
+    { "id": "001", "fileUrl": "stickers/001.webp", "emojis": ["🐶"], "width": 512, "height": 512 }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-31T00:00:00Z",
+  "packs": [
+    {
+      "id": "小红书",
+      "name": "小红书",
+      "author": "Hugo",
+      "trayIconUrl": "packs/小红书/1-1.thumb128.png",
+      "stickerCount": 59,
+      "category": "cute",
+      "manifestUrl": "packs/小红书/pack.json"
+    }
+  ]

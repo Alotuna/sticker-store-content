@@ -5,7 +5,7 @@
     {
       "id": "xiaohongshu",
       "name": "小红书",
-      "author": "Hugo",
+      "author": "Developer",
       "trayIconUrl": "packs/xiaohongshu/1-1.thumb128.png",
       "stickerCount": 43,
       "category": "cute",
@@ -17,7 +17,7 @@
       "author": "Hugo",
       "trayIconUrl": "packs/nudaeng/1-1.thumb128.png",
       "stickerCount": 31,
-      "category": "cute",
+      "category": "meme",
       "manifestUrl": "packs/nudaeng/pack.json"
     }
   ]

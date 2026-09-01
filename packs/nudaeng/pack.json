@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "nudaeng",
+  "name": "Nudaeng Dog",
+  "author": "Hugo",
+  "trayIconUrl": "1-1.thumb128.png",
+  "stickers": [
+       {
+    "id": "1-1.thumb128",
+    "fileUrl": "stickers/1-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "10-1.thumb128",
+    "fileUrl": "stickers/10-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "11-1.thumb128",
+    "fileUrl": "stickers/11-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "12-1.thumb128",
+    "fileUrl": "stickers/12-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "13-1.thumb128",
+    "fileUrl": "stickers/13-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "14-1.thumb128",
+    "fileUrl": "stickers/14-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "15-1.thumb128",
+    "fileUrl": "stickers/15-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "16-1.thumb128",
+    "fileUrl": "stickers/16-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "17-1.thumb128",
+    "fileUrl": "stickers/17-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "18-1.thumb128",
+    "fileUrl": "stickers/18-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "19-1.thumb128",
+    "fileUrl": "stickers/19-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "2-1.thumb128",
+    "fileUrl": "stickers/2-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "20-1.thumb128",
+    "fileUrl": "stickers/20-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "21-1.thumb128",
+    "fileUrl": "stickers/21-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "22-1.thumb128",
+    "fileUrl": "stickers/22-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "23-1.thumb128",
+    "fileUrl": "stickers/23-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "24-1.thumb128",
+    "fileUrl": "stickers/24-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "25-1.thumb128",
+    "fileUrl": "stickers/25-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "26-1.thumb128",
+    "fileUrl": "stickers/26-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "27-1.thumb128",
+    "fileUrl": "stickers/27-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "28-1.thumb128",
+    "fileUrl": "stickers/28-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "29-1.thumb128",
+    "fileUrl": "stickers/29-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "3-1.thumb128",
+    "fileUrl": "stickers/3-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "30-1.thumb128",
+    "fileUrl": "stickers/30-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "31-1.thumb128",
+    "fileUrl": "stickers/31-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "4-1.thumb128",
+    "fileUrl": "stickers/4-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "5-1.thumb128",
+    "fileUrl": "stickers/5-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "6-1.thumb128",
+    "fileUrl": "stickers/6-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "7-1.thumb128",
+    "fileUrl": "stickers/7-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "8-1.thumb128",
+    "fileUrl": "stickers/8-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "id": "9-1.thumb128",
+    "fileUrl": "stickers/9-1.thumb128.png",
+    "emojis": [],
+    "width": 128,
+    "height": 128
+  }
+  ]
+}

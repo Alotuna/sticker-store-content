@@ -7,9 +7,18 @@
       "name": "小红书",
       "author": "Hugo",
       "trayIconUrl": "packs/xiaohongshu/1-1.thumb128.png",
-      "stickerCount": 59,
+      "stickerCount": 43,
       "category": "cute",
       "manifestUrl": "packs/xiaohongshu/pack.json"
+    },
+    {
+      "id": "nudaeng",
+      "name": "Nudaeng Dog",
+      "author": "Hugo",
+      "trayIconUrl": "packs/nudaeng/1-1.thumb128.png",
+      "stickerCount": 31,
+      "category": "cute",
+      "manifestUrl": "packs/nudaeng/pack.json"
     }
   ]
 }
